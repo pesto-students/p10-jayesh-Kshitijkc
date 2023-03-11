@@ -47,6 +47,8 @@ Outcome:
   - la-random
 - Note: Feel free to use any other font library if you wish
 
+![exercise1.2.png](screenshot/exercise1.2.png)
+
 Guidelines:
 1. There should be a separate branch created in GitHub for this exercise.
 2. The UI should closely match with the screengrab given as sample. This includes thecolors, fonts, icons, text etc.
