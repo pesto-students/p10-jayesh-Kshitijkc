@@ -1,4 +1,4 @@
-# Week 1 Assignment
+# Week 2 Assignment
 ### Exercise 2.1:(2-3hours):<br />
 Create a new webpage on a subject that you're interested in. The page should **NOT** use anyframework like Bootstrap and it should include the following elements:<br />
 a. The `.html` page and a linked `.css` file applies a consistent color scheme to links and text onyour page.<br />
